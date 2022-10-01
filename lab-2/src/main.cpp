@@ -18,7 +18,6 @@ int main()
 	int child_tag;
 	int fd[2];
 	char *const child_args[] = { "./exec_child", NULL };
-	char *child_env[] = { NULL };
 	fstream res_file;
 	string child1, child2;
 	cout<<"Enter the name for first child file: ";
