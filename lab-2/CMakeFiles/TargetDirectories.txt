@@ -1,4 +1,0 @@
-/home/alex/OS-lab/OS-labs/lab-2/CMakeFiles/rebuild_cache.dir
-/home/alex/OS-lab/OS-labs/lab-2/CMakeFiles/main.dir
-/home/alex/OS-lab/OS-labs/lab-2/CMakeFiles/edit_cache.dir
-/home/alex/OS-lab/OS-labs/lab-2/CMakeFiles/exec_child.dir
