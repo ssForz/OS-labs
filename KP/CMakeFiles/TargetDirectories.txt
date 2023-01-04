@@ -1,3 +1,0 @@
-/home/alex/os-labs/OS-labs/KP/CMakeFiles/rebuild_cache.dir
-/home/alex/os-labs/OS-labs/KP/CMakeFiles/edit_cache.dir
-/home/alex/os-labs/OS-labs/KP/CMakeFiles/kpout.dir
