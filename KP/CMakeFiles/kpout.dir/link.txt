@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/kpout.dir/src/main.cpp.o CMakeFiles/kpout.dir/src/FBalloc.cpp.o CMakeFiles/kpout.dir/src/MKKalloc.cpp.o  -o kpout 
